@@ -21,7 +21,7 @@ npm;
 react-navigation.
 
 Arquitetura Arquitetura - DevFlix
-![Untitled drawing]()
+![Untitled drawing](https://github.com/mauriciodw2/supreme-eureka/blob/master/Untitled%20drawing.png)
 
 👷Comandos
 
