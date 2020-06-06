@@ -1,4 +1,4 @@
-# Devflix
+# Senaiflix
 App para reprodução de vídeos - Estilo Netflix
 
 🎯Objetivo
